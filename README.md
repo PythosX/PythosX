@@ -31,7 +31,6 @@
 
 | System Entry | Purpose | Access Level |
 | :--- | :--- | :--- |
-| **🏏 IPL Streamer** | Intercepting live signals via JS/HTML. | [LIVE](https://ipl-live-streaming.vercel.app/) |
 | **📑 Paper Generator** | Automating physical logs with Python logic. | [ENCRYPTED](#) |
 | **🚀 DisciplineOS** | Optimizing routines via CSS/JS architecture. | [RESTRICTED](#) |
 | **📂 File-Uploader** | Stealth data transmission system. | [DECODED](#) |
