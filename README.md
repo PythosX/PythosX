@@ -8,7 +8,7 @@
     
 - 💡 Ask me about **Python, HTML ,CSS , JS**  
   
-- 📧 Connect with me at **kartikmhatre1812@gmail.com**
+- 📧 Connect with me at **t.me/PythosX**
   
 - ⚡ Fun fact: **I debug with my eyes closed and deploy daily** 😎
 
