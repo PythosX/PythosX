@@ -30,7 +30,7 @@
       <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🤖 HyperTask AI</h3>
       <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Your <strong>AI-powered platform</strong> for keeping you on time</p>
       <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Dispatches instant reminders directly to your smartphone via Telegram Bot API.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/HyperTask-AI"><img src="https://img.shields.io/badge/🚀_Launch_Platform-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch HyperTask AI" /></a></p>
+      <p align="center" style="margin-top: 20px;"><a href="https://hypertask-ai.onrender.com"><img src="https://img.shields.io/badge/🚀_Launch_Platform-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch HyperTask AI" /></a></p>
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@
       <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💬 My AI Portfolio</h3>
       <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Interactive Chatbot Portfolio interface designed for fun 😁</p>
       <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Web-based conversational UI showcasing personal projects.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/My_AI_Portfolio"><img src="https://img.shields.io/badge/🚀_Launch_Demo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch My AI Portfolio" /></a></p>
+      <p align="center" style="margin-top: 20px;"><a href="https://pythosx.github.io/My_AI_Portfolio/"><img src="https://img.shields.io/badge/🚀_Launch_Demo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch My AI Portfolio" /></a></p>
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
       <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📐 Math ChatBot</h3>
       <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">A chat bot designed for <strong>scientific math calculations</strong></p>
       <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Parses and solves complex mathematical expressions interactively.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Math-ChatBot"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Math ChatBot" /></a></p>
+      <p align="center" style="margin-top: 20px;"><a href="https://pythosx.github.io/Math-ChatBot/"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Math ChatBot" /></a></p>
     </td>
     <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
       <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📝 Paper Builder</h3>
@@ -72,7 +72,7 @@
       <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎮 Gaming Hub</h3>
       <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Interactive Web Gaming Portal created by V0id</p>
       <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Lightweight JavaScript arcade web platform.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Gaming_Hub"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Gaming Hub" /></a></p>
+      <p align="center" style="margin-top: 20px;"><a href="https://pythosx.github.io/Gaming_Hub/"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Gaming Hub" /></a></p>
     </td>
   </tr>
 </table>
