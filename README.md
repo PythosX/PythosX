@@ -18,96 +18,65 @@
 
 # 💼 My Projects
 <div align="center">
-<table>
-<tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🤖 HyperTask AI</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Your <strong>AI-powered platform</strong> for keeping you on time</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> dispatches instant reminders directly to your smartphone via the Telegram Bot API.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://hypertask-ai.onrender.com"><img src="https://img.shields.io/badge/🚀_Launch_Platform-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch AstraGo AI" /></a></p>
-</td>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📧 1TimeMail</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Generate disposable email addresses instantly — <strong>secure</strong>, <strong>fast</strong>, and <strong>private</strong>.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Perfect for quick sign-ups and avoiding spam in your inbox.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://1timemail.org/"><img src="https://img.shields.io/badge/🔗_Open_Now-FF4757?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=FF4757" alt="Open 1TimeMail" /></a></p>
-</td>
-</tr>
-<tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🔍 Text Extractor AI</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Transform documents, images & PDFs into <strong>editable text</strong> instantly with advanced AI.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Supports:</span> PDF, JPG, PNG | Handwriting & multi-language recognition.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://testextractor-5uez.onrender.com"><img src="https://img.shields.io/badge/🔗_Try_Now-3B82F6?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=3B82F6" alt="Try Text Extractor AI" /></a></p>
-</td>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💳 UpiLink-Generator</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Create custom UPI payment links in seconds — <strong>easy sharing</strong>, <strong>instant payments</strong>.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Ideal for freelancers, small businesses, and instant payments.</p>
-<p align="center" style="margin-top: 20px;"><a href="http://upilinkgenerator.vercel.app/"><img src="https://img.shields.io/badge/🔗_Visit_Site-F97316?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=F97316" alt="Visit UpiLink Generator" /></a></p>
-</td>
-</tr>
-<tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎨 Patter-Nix</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Professional-grade</strong> background patterns and gradients.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Easily copy the code and seamlessly integrate it into your projects.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://patter-nix.vercel.app/"><img src="https://img.shields.io/badge/🔗_Explore_Now-D946EF?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=D946EF" alt="Visit Patter-Nix" /></a></p>
-</td>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: radial-gradient(circle at top left, #0e0e12 0%, #1a1a2e 50%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🚀 My Portfolio</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Showcasing my projects, skills, and creative work — where <strong>code meets design</strong>.</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">Visit my portfolio — AI/ML projects & skills by Krish Mhatre.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://otisium.vercel.app/"><img src="https://img.shields.io/badge/🔗_View_Portfolio-FACC15?style=for-the-badge&logoColor=black&labelColor=1a1a2e&color=FACC15" alt="Explore Portfolio" /></a></p>
-</td>
-</tr>
-<tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 30%, #16213e 70%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📄 FlexoPDF</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;"><strong>Smart file tools made easy.</strong> Convert, compress, edit, and secure your PDFs and images in seconds — fast, free, and no signup required!</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⭐ Supports:</span> PDF, JPG, PNG, DOCX, XLSX, PPTX, WEBP, and more.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://flexopdf.zeabur.app/"><img src="https://img.shields.io/badge/🌐_Launch_App-A855F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=A855F7" alt="Visit FlexoPDF" /></a></p>
-</td>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #2d1b69 30%, #1a1a2e 70%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">⚙️ Language Converter</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Convert code between <strong>any programming languages</strong> instantly — seamless translation for developers (Open Source Project)</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Supports:</span> Python, JavaScript, Java, C++, Go, Rust, and many more.</p>
-<p align="center" style="margin-top: 20px;"><a href="https://languageconverter.onrender.com/"><img src="https://img.shields.io/badge/🔗_Try_Now-0EA5E9?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=0EA5E9" alt="Visit Language Converter" /></a></p>
-</td>
- <tr>
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0e0e12 0%, #1a1a2e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📸 InstaPulse</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">
-A clean and fast **image-based social feed** with smooth UI, instant posting, and modern animations.
-</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
-download the instagram video, story from here.
-</p>
-<p align="center" style="margin-top: 20px;">
-  <a href="https://instapulse.netlify.app/">
-    <img src="https://img.shields.io/badge/🔗_Open_InstaPulse-E11D48?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=E11D48" alt="Open InstaPulse" />
-  </a>
-</p>
-</td>
-
-<td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #2d1b69 30%, #1a1a2e 70%, #16213e 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-<h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📚 Inter-Prep</h3>
-<p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">
-Your one-stop platform for interview preparation — coding, MCQs, aptitude & system design.
-</p>
-<p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;">
-Ace your interviews with curated questions and quick practice.
-</p>
-<p align="center" style="margin-top: 20px;">
-  <a href="https://inter-prep.zeabur.app/">
-    <img src="https://img.shields.io/badge/🔗_Start_Preparing-3B82F6?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=3B82F6" alt="Open Inter-Prep" />
-  </a>
-</p>
-</td>
-</tr>
-
-</tr>
+<table width="100%">
+  <tr>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🔒 Aether-Vault</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Secure Python-based encrypted data storage and vault system</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> High-level Python cryptography and secure data management.</p>
+      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Aether-Vault"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Aether-Vault" /></a></p>
+    </td>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🤖 HyperTask AI</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Your <strong>AI-powered platform</strong> for keeping you on time</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Dispatches instant reminders directly to your smartphone via Telegram Bot API.</p>
+      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/HyperTask-AI"><img src="https://img.shields.io/badge/🚀_Launch_Platform-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch HyperTask AI" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">👤 Persona Clone Bot</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">AI-driven persona clone chatbot built with Python</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Mimics custom conversational styles and personal responses.</p>
+      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Persona_Clone_Bot"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Persona Clone Bot" /></a></p>
+    </td>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💬 My AI Portfolio</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Interactive Chatbot Portfolio interface designed for fun 😁</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Web-based conversational UI showcasing personal projects.</p>
+      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/My_AI_Portfolio"><img src="https://img.shields.io/badge/🚀_Launch_Demo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch My AI Portfolio" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📐 Math ChatBot</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">A chat bot designed for <strong>scientific math calculations</strong></p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Parses and solves complex mathematical expressions interactively.</p>
+      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Math-ChatBot"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Math ChatBot" /></a></p>
+    </td>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📝 Paper Builder</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Modern Windows application to <strong>streamline exam creation</strong></p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Converts .docx files into a searchable, clickable question bank.</p>
+      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Papar_Builder"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Paper Builder" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">⚡ DisciplineOS</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Personal habit-tracking and discipline operating system</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> JavaScript-powered workflow tracking and productivity metrics.</p>
+      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/DisciplineOS"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View DisciplineOS" /></a></p>
+    </td>
+    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
+      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎮 Gaming Hub</h3>
+      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Interactive Web Gaming Portal created by V0id</p>
+      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Lightweight JavaScript arcade web platform.</p>
+      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Gaming_Hub"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Gaming Hub" /></a></p>
+    </td>
+  </tr>
 </table>
+
 </div>
 
 ---
