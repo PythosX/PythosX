@@ -103,6 +103,15 @@
 
 ---
 
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
+  &nbsp;&nbsp;
+</div>
+
+---
+
 <div align="center">
   <p style="color: #A020F0; font-size: 1.1em; margin-top: 30px;">
     <strong>🚀 Crafted with passion by Karan </strong>
