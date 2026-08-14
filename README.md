@@ -9,6 +9,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=I+am+CodeNinja;Crafting+digital+experiences.;Innovation+through+code.;Turning+ideas+into+reality.">
 </p>
 
+<p align="center">
+  <!-- Total Repositories Badge -->
+  <a href="https://github.com/PythosX?tab=repositories">
+    <img src="https://img.shields.io/github/repos/all/PythosX?style=for-the-badge&logo=github&logoColor=white&label=Total%20Repos&color=8B0000" alt="Total Repositories" />
+  </a>
+  &nbsp;
+ 
+  <!-- Total Commits Badge -->
+  <a href="https://github.com/PythosX">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=git&logoColor=white&label=Total%20Commits&query=%24.totalCommits&url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DPythosX%26raw%3Dtrue&color=B22222" alt="Total Commits" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PythosX&show_icons=true&count_private=true&theme=dark&bg_color=140909&title_color=ff4d4d&icon_color=ff4d4d&text_color=cccccc&border_color=331010&hide_border=false" alt="PythosX GitHub Stats" />
+</p>
+
+
 # 💼 My Projects
 <div align="center">
 <table width="100%">
