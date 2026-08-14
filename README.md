@@ -3,7 +3,7 @@
  
 <p align="center"><i>"While others see problems, I see puzzles waiting to be solved — crafting elegant solutions one algorithm at a time."</i></p>
  
-<h1 align="center">- 📧 Connect with me at <a href="t.me/PythosX"> ** t.me/PythosX **</a> </h1>
+<h1 align="center">- 📧 Connect with me at <a href="t.me/PythosX">t.me/PythosX</a> </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=I+am+CodeNinja;Crafting+digital+experiences.;Innovation+through+code.;Turning+ideas+into+reality.">
