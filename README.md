@@ -12,7 +12,7 @@
 ## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="./stats/github-stats.svg" alt="GitHub Statistics"/>
+  <img src="./stats/github-stats.svg" alt="GitHub Statistics" width="900">
 </p>
 
 
