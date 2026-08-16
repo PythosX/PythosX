@@ -39,20 +39,24 @@
 
 ---
 
-## `03 // TECH MATRIX`
+<h2 align="center">⚡ TECH ARSENAL // ACTIVE STACK</h2>
 
-<div align="center">
+<p align="center">
+  <img src="./tech-arsenal/html.svg" width="90" alt="HTML5"/>
+  <img src="./tech-arsenal/css.svg" width="90" alt="CSS3"/>
+  <img src="./tech-arsenal/javascript.svg" width="90" alt="JavaScript"/>
+  <img src="./tech-arsenal/python.svg" width="90" alt="Python"/>
+  <img src="./tech-arsenal/github-actions.svg" width="90" alt="GitHub Actions"/>
+</p>
 
-![Python](https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=00e5ff)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=00e5ff)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff315f)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=7c4dff)
-![Java](https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge&logo=openjdk&logoColor=00e5ff)
-![Git](https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=ff315f)
-![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![AI](https://img.shields.io/badge/AI%20%2F%20AUTOMATION-0d1117?style=for-the-badge&logo=openai&logoColor=00e5ff)
+<p align="center">
+  <img src="./tech-arsenal/ai.svg" width="90" alt="AI"/>
+  <img src="./tech-arsenal/render.svg" width="90" alt="Render"/>
+  <img src="./tech-arsenal/vercel.svg" width="90" alt="Vercel"/>
+  <img src="./tech-arsenal/telegram.svg" width="90" alt="Telegram"/>
+  <img src="./tech-arsenal/api.svg" width="90" alt="API"/>
+</p>
 
-</div>
 
 ---
 
