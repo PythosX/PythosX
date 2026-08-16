@@ -9,7 +9,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=I+am+CodeNinja;Crafting+digital+experiences.;Innovation+through+code.;Turning+ideas+into+reality.">
 </p>
 
-### ⚡ GitHub Activity
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img src="./stats/github-stats.svg" alt="GitHub Statistics"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PythosX&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&hide=issues,prs,contribs&theme=tokyonight&border_radius=10" height="150"/>
