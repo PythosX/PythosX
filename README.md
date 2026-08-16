@@ -15,16 +15,6 @@
   <img src="./stats/github-stats.svg" alt="GitHub Statistics"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PythosX&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&hide_rank=true&hide=issues,prs,contribs&theme=tokyonight&border_radius=10" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/PythosX?style=for-the-badge&logo=github&logoColor=white&label=COMMITS%2FYEAR" />
-  <img src="https://img.shields.io/github/repos/PythosX?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES" />
-  <img src="https://img.shields.io/github/stars/PythosX?style=for-the-badge&logo=github&logoColor=white&label=STARS" />
-  <img src="https://img.shields.io/github/followers/PythosX?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS" />
-</p>
 
 # 💼 My Projects
 <div align="center">
