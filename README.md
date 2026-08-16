@@ -1,140 +1,115 @@
- ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center">⚡ Welcome to the Digital Realm! 🥷💻</h1>  
- 
-<p align="center"><i>"While others see problems, I see puzzles waiting to be solved — crafting elegant solutions one algorithm at a time."</i></p>
- 
-<h1 align="center">- 📧 Connect with me at Telegram → <a href="https://t.me/PythosX">PythosX</a> </h1>
+<div align="center">
+
+# ⚡ PYTHOSX // VOID X
+
+### `CODE • BUILD • AUTOMATE • INNOVATE`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=720&lines=Welcome+to+the+Digital+Realm.;I+build+tools+that+solve+real+problems.;Python+%7C+JavaScript+%7C+Web+%7C+Automation;Turning+ideas+into+working+systems.;SYSTEM+ONLINE+%E2%9A%A1" alt="Typing animation"/>
+
+<br>
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-PythosX-16111f?style=for-the-badge&logo=telegram&logoColor=00E5FF)](https://t.me/PythosX)
+[![GitHub](https://img.shields.io/badge/GITHUB-PythosX-16111f?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/PythosX)
+
+<br>
+
+> **"While others see problems, I see puzzles waiting to be solved — crafting elegant solutions one algorithm at a time."**
+
+</div>
+
+---
+
+## `01 // SYSTEM STATUS`
+
+<div align="center">
+<img src="./stats/github-stats.svg" alt="PythosX GitHub Statistics" width="900"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00D4AA&center=true&vCenter=true&width=500&lines=I+am+CodeNinja;Crafting+digital+experiences.;Innovation+through+code.;Turning+ideas+into+reality.">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0b0810" alt="Status online"/>
+<img src="https://img.shields.io/badge/PROFILE-AUTO--UPDATED-7C4DFF?style=for-the-badge&labelColor=0b0810" alt="Auto updated"/>
+<img src="https://img.shields.io/badge/BUILDING-FUTURE-FF315F?style=for-the-badge&labelColor=0b0810" alt="Building future"/>
 </p>
 
-## ⚡ GitHub Activity
+---
 
-<p align="center">
-  <img src="./stats/github-stats.svg" alt="GitHub Statistics" width="900">
-</p>
+## `02 // PROJECT MATRIX`
 
+<div align="center">
 
-# 💼 My Projects
+### `// ALL PUBLIC REPOSITORIES • LIVE INDEX`
+
+</div>
+
+<!-- PROJECTS:START -->
 <div align="center">
 <table width="100%">
-  <tr>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🔒 Aether-Vault</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Secure Python-based encrypted data storage and vault system</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> High-level Python cryptography and secure data management.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Aether-Vault"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Aether-Vault" /></a></p>
-    </td>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🤖 HyperTask AI</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Your <strong>AI-powered platform</strong> for keeping you on time</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Dispatches instant reminders directly to your smartphone via Telegram Bot API.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://hypertask-ai.onrender.com"><img src="https://img.shields.io/badge/🚀_Launch_Platform-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch HyperTask AI" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">👤 Persona Clone Bot</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">AI-driven persona clone chatbot built with Python</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Mimics custom conversational styles and personal responses.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Persona_Clone_Bot"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Persona Clone Bot" /></a></p>
-    </td>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">💬 My AI Portfolio</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Interactive Chatbot Portfolio interface designed for fun 😁</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Web-based conversational UI showcasing personal projects.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://pythosx.github.io/My_AI_Portfolio/"><img src="https://img.shields.io/badge/🚀_Launch_Demo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="Launch My AI Portfolio" /></a></p>
-    </td>
-  </tr>
- <tr style="display: flex; flex-wrap: wrap;">
-  <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3); flex: 1 1 45%; margin: 5px;" width="50%">
-    <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎬 Shorts Factory</h3>
-    <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Automated tool for creating engaging short-form video content</p>
-    <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> CSS-styled video processing and short-form layout creation.</p>
-    <p align="center" style="margin-top: 20px;"><a href="https://pythosx.github.io/Shorts_Factory/"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Shorts Factory" /></a></p>
-  </td>
-  <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3); flex: 1 1 45%; margin: 5px;" width="50%">
-    <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🌐 Personal Portfolio</h3>
-    <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Clean and modern responsive web developer portfolio</p>
-    <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Displays developer skills, projects, and contact credentials.</p>
-    <p align="center" style="margin-top: 20px;"><a href="pythosx.github.io/Portfolio/"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Portfolio" /></a></p>
-  </td>
+<tr>
+<td width="50%" align="center">
+
+### 🔒 Aether-Vault
+Secure Python-based encrypted data storage and vault system.
+
+<a href="https://github.com/PythosX/Aether-Vault"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-00E5FF?style=for-the-badge&labelColor=0b0810" alt="Open Aether-Vault"/></a>
+
+</td>
+<td width="50%" align="center">
+
+### 🤖 HyperTask AI
+AI-powered productivity and reminder platform.
+
+<a href="https://github.com/PythosX/HyperTask-AI"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C4DFF?style=for-the-badge&labelColor=0b0810" alt="Open HyperTask AI"/></a>
+
+</td>
 </tr>
-<tr style="display: flex; flex-wrap: wrap;">
-  <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3); flex: 1 1 45%; margin: 5px;" width="50%">
-    <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🏏 IPL Live Streaming</h3>
-    <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">JavaScript app for broadcasting real-time cricket matches</p>
-    <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Streamlined live score updates and cricket video player interface.</p>
-    <p align="center" style="margin-top: 20px;"><a href="ipl-live-streaming.vercel.app"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View IPL Live Streaming" /></a></p>
-  </td>
-</tr>
-  <tr>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📐 Math ChatBot</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">A chat bot designed for <strong>scientific math calculations</strong></p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Parses and solves complex mathematical expressions interactively.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://pythosx.github.io/Math-ChatBot/"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Math ChatBot" /></a></p>
-    </td>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">📝 Paper Builder</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Modern Windows application to <strong>streamline exam creation</strong></p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Converts .docx files into a searchable, clickable question bank.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/Papar_Builder"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Paper Builder" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">⚡ DisciplineOS</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Personal habit-tracking and discipline operating system</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> JavaScript-powered workflow tracking and productivity metrics.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://github.com/PythosX/DisciplineOS"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View DisciplineOS" /></a></p>
-    </td>
-    <td style="border: 2px solid #A020F0; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0a0a0f 0%, #16213e 40%, #2d1b69 100%); color: white; text-align: center; box-shadow: 0 8px 32px rgba(160, 32, 240, 0.3);" width="50%">
-      <h3 style="margin-top: 0; color: #A020F0; font-size: 1.4em;">🎮 Gaming Hub</h3>
-      <p style="font-size: 1.1em; margin: 15px 0; line-height: 1.5;">Interactive Web Gaming Portal created by V0id</p>
-      <p style="font-size: 0.95em; color: #bbb; margin: 10px 0; font-style: italic;"><span style="color: #A020F0;">⚡ Features:</span> Lightweight JavaScript arcade web platform.</p>
-      <p align="center" style="margin-top: 20px;"><a href="https://pythosx.github.io/Gaming_Hub/"><img src="https://img.shields.io/badge/🚀_View_Repo-22C55E?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=22C55E" alt="View Gaming Hub" /></a></p>
-    </td>
-  </tr>
 </table>
+</div>
+<!-- PROJECTS:END -->
+
+<p align="center">
+<b>PROJECT MATRIX IS AUTO-REFRESHED BY GITHUB ACTIONS.</b><br>
+<sub>New public repositories will appear here automatically.</sub>
+</p>
+
+---
+
+## `03 // TECH ARSENAL`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/PYTHON-0b0810?style=for-the-badge&logo=python&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0b0810?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0b0810?style=for-the-badge&logo=html5&logoColor=FF6B35)
+![CSS3](https://img.shields.io/badge/CSS3-0b0810?style=for-the-badge&logo=css3&logoColor=7C4DFF)
+![Java](https://img.shields.io/badge/JAVA-0b0810?style=for-the-badge&logo=openjdk&logoColor=FF315F)
+![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-0b0810?style=for-the-badge&logo=githubactions&logoColor=00E5FF)
 
 </div>
 
 ---
 
-## 🧰 Tech Stack
+## `04 // DEVELOPMENT PROTOCOL`
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
-  &nbsp;&nbsp;
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-  <p style="color: #A020F0; font-size: 1.1em; margin-top: 30px;">
-    <strong>🚀 Crafted with passion by Karan </strong>
-  </p>
-  <p style="color: #bbb; font-size: 0.9em;">
-    Explore more projects and connect with me across the web
-  </p>
-</div>
-
-
-<div align="center">
-
-```
-🎯 Mission Statement:
-"Building tools that solve real problems and make life easier"
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  INPUT        →  IDEA / PROBLEM / OBSERVATION                │
+│  PROCESS      →  DESIGN / CODE / TEST / ITERATE              │
+│  OUTPUT       →  TOOL / APP / AUTOMATION / SOLUTION          │
+│                                                              │
+│  [✓] BUILD   [✓] BREAK   [✓] DEBUG   [✓] REBUILD   [∞] REPEAT │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
+### `// MISSION`
+
+**Building tools that solve real problems and make life easier.**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" alt="Cyber divider"/>
+
+### ⚡ `SYSTEM ONLINE` • `KEEP BUILDING` • `KEEP SHIPPING`
 
 </div>
