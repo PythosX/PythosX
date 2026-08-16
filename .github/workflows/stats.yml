@@ -1,119 +1,181 @@
-name: Update GitHub Stats
+name: "⚡ PythosX Profile Auto Update"
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 0 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-stats:
+  update-profile:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout profile
         uses: actions/checkout@v4
 
-      - name: Get GitHub statistics
+      - name: Generate dynamic stats and project matrix
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python - <<'PY'
           import json
-          import urllib.request
           import os
+          import re
+          import urllib.parse
+          import urllib.request
 
-          username = "PythosX"
+          USER = "PythosX"
+          ROOT = "https://api.github.com"
 
           headers = {
-              "Authorization": "Bearer " + os.environ["GH_TOKEN"],
+              "Authorization": f"Bearer {os.environ['GH_TOKEN']}",
               "Accept": "application/vnd.github+json",
-              "User-Agent": "PythosX-Stats"
+              "X-GitHub-Api-Version": "2022-11-28",
+              "User-Agent": "PythosX-profile-updater"
           }
 
-          def request(url):
+          def get(url):
               req = urllib.request.Request(url, headers=headers)
-              with urllib.request.urlopen(req) as r:
-                  return json.loads(r.read())
+              with urllib.request.urlopen(req) as response:
+                  return json.load(response)
 
-          # Repository count
-          user = request(f"https://api.github.com/users/{username}")
-          repos = user["public_repos"]
-
-          # Count commits across repositories
+          # Get all repositories owned by the account.
+          repos = []
           page = 1
-          total_commits = 0
-
           while True:
-              url = (
-                  f"https://api.github.com/search/commits"
-                  f"?q=author:{username}&per_page=100&page={page}"
-              )
+              batch = get(f"{ROOT}/users/{USER}/repos?per_page=100&page={page}&type=owner&sort=updated")
+              if not batch:
+                  break
+              repos.extend(batch)
+              if len(batch) < 100:
+                  break
+              page += 1
 
-              data = request(url)
+          public_repos = [r for r in repos if not r.get("private") and not r.get("fork")]
+          public_repos.sort(key=lambda r: r.get("pushed_at") or "", reverse=True)
 
-              total_commits = data["total_count"]
-              break
+          repo_count = len(public_repos)
+          stars = sum(r.get("stargazers_count", 0) for r in public_repos)
 
-          print("Repositories:", repos)
-          print("Total commits:", total_commits)
+          # Count commits GitHub attributes to the account.
+          try:
+              q = urllib.parse.quote(f"author:{USER}")
+              commit_data = get(f"{ROOT}/search/commits?q={q}&per_page=1")
+              commits = commit_data.get("total_count", 0)
+          except Exception:
+              commits = 0
 
+          print("Public repositories:", repo_count)
+          print("Total stars:", stars)
+          print("Attributed commits:", commits)
+
+          # ---------- STATS SVG ----------
           os.makedirs("stats", exist_ok=True)
-
-          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="700" height="150">
-            <rect width="700" height="150" rx="15" fill="#0d1117"/>
-
-            <text x="175" y="45"
-                  fill="#ffffff"
-                  font-family="Arial"
-                  font-size="16"
-                  text-anchor="middle">
-              TOTAL COMMITS
-            </text>
-
-            <text x="175" y="100"
-                  fill="#00e5ff"
-                  font-family="Arial"
-                  font-size="42"
-                  font-weight="bold"
-                  text-anchor="middle">
-              {total_commits}
-            </text>
-
-            <line x1="350" y1="25" x2="350" y2="125"
-                  stroke="#30363d"/>
-
-            <text x="525" y="45"
-                  fill="#ffffff"
-                  font-family="Arial"
-                  font-size="16"
-                  text-anchor="middle">
-              REPOSITORIES
-            </text>
-
-            <text x="525" y="100"
-                  fill="#00e5ff"
-                  font-family="Arial"
-                  font-size="42"
-                  font-weight="bold"
-                  text-anchor="middle">
-              {repos}
-            </text>
-          </svg>'''
-
-          with open("stats/github-stats.svg", "w") as f:
+          svg = (
+              '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190">'
+              '<defs>'
+              '<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">'
+              '<stop offset="0%" stop-color="#0b0810"/><stop offset="55%" stop-color="#17101f"/><stop offset="100%" stop-color="#09070d"/>'
+              '</linearGradient>'
+              '<linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">'
+              '<stop offset="0%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#7c4dff"/>'
+              '</linearGradient>'
+              '<filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/>'
+              '<feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>'
+              '</defs>'
+              '<rect x="2" y="2" width="896" height="186" rx="20" fill="url(#bg)" stroke="#3b2948" stroke-width="2"/>'
+              '<path d="M25 45 H875 M25 145 H875" stroke="#2a1d34" stroke-width="1"/>'
+              '<circle cx="45" cy="28" r="4" fill="#ff315f"/><circle cx="60" cy="28" r="4" fill="#ffb300"/><circle cx="75" cy="28" r="4" fill="#00e5ff"/>'
+              '<text x="450" y="30" fill="#b8a7c9" font-family="monospace" font-size="12" text-anchor="middle" letter-spacing="3">PYTHOSX // GITHUB ACTIVITY</text>'
+              '<text x="225" y="78" fill="#ffffff" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle">TOTAL COMMITS</text>'
+              f'<text x="225" y="132" fill="url(#cyan)" filter="url(#glow)" font-family="monospace" font-size="44" font-weight="bold" text-anchor="middle">{commits:,}</text>'
+              '<line x1="450" y1="58" x2="450" y2="155" stroke="#3b2948" stroke-width="2"/>'
+              '<text x="675" y="78" fill="#ffffff" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle">REPOSITORIES</text>'
+              f'<text x="675" y="132" fill="url(#cyan)" filter="url(#glow)" font-family="monospace" font-size="44" font-weight="bold" text-anchor="middle">{repo_count}</text>'
+              '<text x="450" y="174" fill="#6f5d7e" font-family="monospace" font-size="10" text-anchor="middle">AUTO-UPDATED VIA GITHUB ACTIONS</text>'
+              '</svg>'
+          )
+          with open("stats/github-stats.svg", "w", encoding="utf-8") as f:
               f.write(svg)
+
+          # ---------- PROJECT MATRIX ----------
+          descriptions = {
+              "Aether-Vault": "Secure Python-based encrypted data storage and vault system.",
+              "HyperTask-AI": "AI-powered productivity and reminder platform.",
+              "Persona_Clone_Bot": "AI-driven persona clone chatbot built with Python.",
+              "My_AI_Portfolio": "Interactive chatbot portfolio experience.",
+              "Shorts_Factory": "Tool for creating engaging short-form video content.",
+              "Portfolio": "Responsive personal web developer portfolio.",
+              "IPL_LiveStreaming": "JavaScript cricket streaming and live-score interface.",
+              "Math-ChatBot": "Interactive scientific mathematics chatbot.",
+              "Papar_Builder": "Windows question-paper and question-bank builder.",
+              "DisciplineOS": "Personal habit and discipline tracking system.",
+              "Gaming_Hub": "Interactive JavaScript gaming portal.",
+              "File-Uploading-System": "JavaScript file upload project.",
+              "Character-Couter.ai": "Character counting and text utility project.",
+              "Scholar": "Early web project and learning build."
+          }
+
+          colors = ["00E5FF", "7C4DFF", "FF315F", "00D4AA", "FFB300"]
+
+          def esc(s):
+              return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+          cards = []
+          for i, repo in enumerate(public_repos):
+              name = repo["name"]
+              desc = descriptions.get(name) or repo.get("description") or "Repository in the PythosX project matrix."
+              desc = esc(desc[:170])
+              color = colors[i % len(colors)]
+              url = repo["html_url"]
+              language = repo.get("language") or "Code"
+              safe_name = urllib.parse.quote(name, safe="")
+
+              card = (
+                  '<td width="50%" valign="top" align="center">\\n\\n'
+                  f'### ◈ {esc(name)}\\n\\n'
+                  f'{desc}\\n\\n<br>\\n\\n'
+                  f'<img src="https://img.shields.io/badge/{urllib.parse.quote(language.upper())}-{color}?style=flat-square&labelColor=0b0810" alt="{esc(language)}"/>\\n'
+                  f'<img src="https://img.shields.io/github/stars/{USER}/{safe_name}.svg?style=flat-square&label=STARS&labelColor=0b0810" alt="Stars"/>\\n\\n<br><br>\\n\\n'
+                  f'<a href="{url}"><img src="https://img.shields.io/badge/OPEN_REPOSITORY-{color}?style=for-the-badge&labelColor=0b0810" alt="Open {esc(name)}"/></a>\\n\\n'
+                  '</td>'
+              )
+              cards.append(card)
+
+          rows = []
+          for i in range(0, len(cards), 2):
+              right = cards[i + 1] if i + 1 < len(cards) else '<td width="50%"></td>'
+              rows.append("<tr>\\n" + cards[i] + "\\n" + right + "\\n</tr>")
+
+          project_block = (
+              '<div align="center">\\n'
+              '<table width="100%">\\n'
+              + "\\n".join(rows)
+              + '\\n</table>\\n</div>\\n\\n'
+              f'<p align="center"><b>{repo_count} PUBLIC REPOSITORIES INDEXED</b> • <b>{stars} TOTAL STARS</b></p>'
+          )
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          pattern = r"<!-- PROJECTS:START -->.*?<!-- PROJECTS:END -->"
+          replacement = "<!-- PROJECTS:START -->\\n" + project_block + "\\n<!-- PROJECTS:END -->"
+          updated = re.sub(pattern, replacement, readme, flags=re.S)
+
+          if updated == readme:
+              raise SystemExit("PROJECTS markers not found in README.md")
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
           PY
 
-      - name: Commit updated stats
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add stats/github-stats.svg
-
-          git diff --cached --quiet || git commit -m "Update GitHub stats"
-
+          git add README.md stats/github-stats.svg
+          git diff --cached --quiet || git commit -m "⚡ Auto-update profile stats and project matrix"
           git push
