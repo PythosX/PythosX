@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0810"/>
+      <stop offset="55%" stop-color="#17101f"/>
+      <stop offset="100%" stop-color="#09070d"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#7c4dff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="896" height="186" rx="20"
+        fill="url(#bg)" stroke="#3b2948" stroke-width="2"/>
+
+  <path d="M25 45 H875 M25 145 H875" stroke="#2a1d34" stroke-width="1"/>
+  <circle cx="45" cy="28" r="4" fill="#ff315f"/>
+  <circle cx="60" cy="28" r="4" fill="#ffb300"/>
+  <circle cx="75" cy="28" r="4" fill="#00e5ff"/>
+
+  <text x="450" y="30" fill="#b8a7c9" font-family="monospace"
+        font-size="12" text-anchor="middle" letter-spacing="3">PYTHOSX // GITHUB ACTIVITY</text>
+
+  <text x="225" y="78" fill="#ffffff" font-family="monospace"
+        font-size="16" font-weight="bold" text-anchor="middle">⚡ TOTAL COMMITS</text>
+  <text x="225" y="132" fill="url(#cyan)" filter="url(#glow)"
+        font-family="monospace" font-size="44" font-weight="bold"
+        text-anchor="middle">0</text>
+
+  <line x1="450" y1="58" x2="450" y2="155" stroke="#3b2948" stroke-width="2"/>
+
+  <text x="675" y="78" fill="#ffffff" font-family="monospace"
+        font-size="16" font-weight="bold" text-anchor="middle">◈ REPOSITORIES</text>
+  <text x="675" y="132" fill="url(#cyan)" filter="url(#glow)"
+        font-family="monospace" font-size="44" font-weight="bold"
+        text-anchor="middle">31</text>
+
+  <text x="450" y="174" fill="#6f5d7e" font-family="monospace"
+        font-size="10" text-anchor="middle">AUTO-UPDATED VIA GITHUB ACTIONS</text>
+</svg>
