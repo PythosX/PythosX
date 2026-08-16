@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Python">
+  <title>Python</title>
+  <style>
+    .draw {
+      stroke-dasharray: 900;
+      stroke-dashoffset: 900;
+      animation: draw 10s ease-in-out infinite;
+    }
+    .d1 { animation-delay: .35s; }
+    .d2 { animation-delay: .7s; }
+    .d3 { animation-delay: 1.05s; }
+    @keyframes draw {
+      0%, 8% { stroke-dashoffset: 900; opacity: .25; }
+      42%, 62% { stroke-dashoffset: 0; opacity: 1; }
+      92%, 100% { stroke-dashoffset: 900; opacity: .25; }
+    }
+    .frame { fill:#0b0810; stroke:#30203d; stroke-width:2; }
+    .ring { fill:none; stroke:#2a1b35; stroke-width:1.5; }
+    .caption { fill:#a99ab5; font:700 9px monospace; letter-spacing:1.4px; }
+  </style>
+
+  <rect x="4" y="4" width="192" height="192" rx="28" class="frame"/>
+  <circle cx="100" cy="88" r="62" class="ring"/>
+  <circle cx="100" cy="88" r="72" class="ring" stroke-dasharray="3 9"/>
+  <g transform="translate(0 0)">
+    <path d="M100 30C70 30 70 43 70 43V63H106V71H60C39 71 39 91 39 91S39 111 60 111H75V91S75 71 96 71H130C151 71 151 51 151 51V43C151 43 151 30 121 30Z" fill="none" stroke="#3776AB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" class="draw d0"/><path d="M100 146C130 146 130 133 130 133V113H94V105H140C161 105 161 85 161 85S161 65 140 65H125V85S125 105 104 105H70C49 105 49 125 49 125V133C49 133 49 146 79 146Z" fill="none" stroke="#FFD43B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" class="draw d1"/>
+  </g>
+  <text x="100" y="174" text-anchor="middle" class="caption">PYTHON</text>
+</svg>

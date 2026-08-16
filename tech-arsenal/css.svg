@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="CSS3">
+  <title>CSS3</title>
+  <style>
+    .draw {
+      stroke-dasharray: 900;
+      stroke-dashoffset: 900;
+      animation: draw 10s ease-in-out infinite;
+    }
+    .d1 { animation-delay: .35s; }
+    .d2 { animation-delay: .7s; }
+    .d3 { animation-delay: 1.05s; }
+    @keyframes draw {
+      0%, 8% { stroke-dashoffset: 900; opacity: .25; }
+      42%, 62% { stroke-dashoffset: 0; opacity: 1; }
+      92%, 100% { stroke-dashoffset: 900; opacity: .25; }
+    }
+    .frame { fill:#0b0810; stroke:#30203d; stroke-width:2; }
+    .ring { fill:none; stroke:#2a1b35; stroke-width:1.5; }
+    .caption { fill:#a99ab5; font:700 9px monospace; letter-spacing:1.4px; }
+  </style>
+
+  <rect x="4" y="4" width="192" height="192" rx="28" class="frame"/>
+  <circle cx="100" cy="88" r="62" class="ring"/>
+  <circle cx="100" cy="88" r="72" class="ring" stroke-dasharray="3 9"/>
+  <g transform="translate(0 0)">
+    <path d="M45 28H155L145 137L100 155L55 137Z" fill="none" stroke="#1572B6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" class="draw d0"/><path d="M64 55H137L135 76H67ZM68 91H133L130 112H71Z" fill="none" stroke="#1572B6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" class="draw d1"/>
+  </g>
+  <text x="100" y="174" text-anchor="middle" class="caption">CSS3</text>
+</svg>
