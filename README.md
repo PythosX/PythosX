@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ PYTHOSX // VOID X
+# ⚡ PYTHOSX 
 
 ### `DIGITAL BUILDER • CODE NINJA • SYSTEM EXPLORER`
 
