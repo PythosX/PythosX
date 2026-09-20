@@ -15,7 +15,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pythosx&label=Profile%20Views&color=0077B5&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/pythosx?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/pythosx?tab=followers)
-[![Stars](https://img.shields.io/badge/Total%20Stars-86k%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pythosx)
+
 
 
 </div>
