@@ -9,7 +9,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-ghorpade-36b7ab436)
-[![Telegram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/PythosX)
+[![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PythosX)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.karanghorpade@gmail.com)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-PythosX-161b22?style=for-the-badge&logo=telegram&logoColor=00e5ff)](https://t.me/PythosX)
 <br><br>
