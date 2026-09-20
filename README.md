@@ -11,6 +11,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-ghorpade-36b7ab436)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.karanghorpade@gmail.com)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-PythosX-161b22?style=for-the-badge&logo=telegram&logoColor=00e5ff)](https://t.me/PythosX)
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=pythosx&label=Profile%20Views&color=0077B5&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/pythosx?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/pythosx?tab=followers)
+[![Stars](https://img.shields.io/badge/Total%20Stars-86k%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pythosx)
 
 
 </div>
