@@ -9,7 +9,7 @@
 <br>
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-PythosX-161b22?style=for-the-badge&logo=telegram&logoColor=00e5ff)](https://t.me/PythosX)
-[![GitHub](https://img.shields.io/badge/GITHUB-PythosX-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/PythosX)
+[![Linkdin](https://img.shields.io/badge/GITHUB-PythosX-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](www.linkedin.com/in/karan-ghorpade-36b7ab436)
 
 </div>
 
