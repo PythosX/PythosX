@@ -50,10 +50,10 @@
 <h2 align="center">⚡ TECH ARSENAL // ACTIVE STACK</h2>
 
 <p align="center">
+   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
   <img src="./tech-arsenal/html.svg" width="90" alt="HTML5"/>
   <img src="./tech-arsenal/css.svg" width="90" alt="CSS3"/>
   <img src="./tech-arsenal/javascript.svg" width="90" alt="JavaScript"/>
-  <img src="./tech-arsenal/python.svg" width="90" alt="Python"/>
   <img src="./tech-arsenal/github-actions.svg" width="90" alt="GitHub Actions"/>
 </p>
 
