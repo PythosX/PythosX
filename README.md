@@ -8,7 +8,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karan-ghorpade-36b7ab436)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.karanghorpade@gmail.com)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-PythosX-161b22?style=for-the-badge&logo=telegram&logoColor=00e5ff)](https://t.me/PythosX)
 
