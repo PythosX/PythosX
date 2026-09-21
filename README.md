@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Github-0B0D0E?style=flat-square&logo=Github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Telegram-2496ED?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/TelegramBot-2496ED?style=flat-square&logo=TelegramBot&logoColor=white" alt="Telegram" />
   <img src="https://img.shields.io/badge/HuggingFace-2496ED?style=flat-square&logo=HuggingFace&logoColor=white" alt="Hugging Face" />
 </p>
 
