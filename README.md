@@ -50,10 +50,11 @@
 <h2 align="center">⚡ TECH ARSENAL // ACTIVE STACK</h2>
 
 <p align="center">
-<img src="./stats/icons8-html-5-48.png" alt="HTML5" width="48" height="48" />
+  <img src="./stats/icons8-html-5-48.png" alt="HTML5" width="48" height="48" />
   <img src="./stats/icons8-css-logo-48.png" alt="CSS3" width="48" height="48" />
   <img src="./stats/icons8-ai-48.png" alt="AI" width="48" height="48" />
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
+  <img src="./stats/icons8-c++-48.png" alt="C++" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" alt="In Progress" />
 </p>
 <br>
 <b align="center">Build Tools & Infrastructure</b>
@@ -64,6 +65,7 @@
   <img src="https://img.shields.io/badge/Github-0B0D0E?style=flat-square&logo=Github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Telegram-2496ED?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/HuggingFace-2496ED?style=flat-square&logo=HuggingFace&logoColor=white" alt="Hugging Face" />
 </p>
 
 
