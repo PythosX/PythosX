@@ -56,7 +56,7 @@
    <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
 </p>
 <br>
-**Build Tools & Infrastructure**
+<b align="center">Build Tools & Infrastructure</b>
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-F38020?style=flat-square&logo=Supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
