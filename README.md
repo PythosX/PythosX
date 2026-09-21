@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/In_Progress-orange?style=for-the-badge" alt="In Progress" />
 </p>
 <br>
-<b align="center">Build Tools & Infrastructure</b>
+<h3 align="center">Build Tools & Infrastructure</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-F38020?style=flat-square&logo=Supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
