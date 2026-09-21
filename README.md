@@ -54,7 +54,7 @@
 </p>
 <br>
 **Build Tools & Infrastructure**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Supabase-F38020?style=flat-square&logo=Supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render" />
