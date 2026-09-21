@@ -54,7 +54,7 @@
   <img src="./stats/icons8-css-logo-48.png" alt="CSS3" width="48" height="48" />
   <img src="./stats/icons8-ai-48.png" alt="AI" width="48" height="48" />
   <img src="./stats/icons8-c++-48.png" alt="C++" width="48" height="48" />
-  <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square" alt="In Progress" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square&logo=visualstudiocode" alt="In Progress" />
 </p>
 <br>
 <b align="center">Build Tools & Infrastructure</b>
