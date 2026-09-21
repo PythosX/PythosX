@@ -51,18 +51,16 @@
 
 <p align="center">
    <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
-  <img src="./tech-arsenal/html.svg" width="90" alt="HTML5"/>
-  <img src="./tech-arsenal/css.svg" width="90" alt="CSS3"/>
-  <img src="./tech-arsenal/javascript.svg" width="90" alt="JavaScript"/>
-  <img src="./tech-arsenal/github-actions.svg" width="90" alt="GitHub Actions"/>
 </p>
-
+<br>
 <p align="center">
-  <img src="./tech-arsenal/ai.svg" width="90" alt="AI"/>
-  <img src="./tech-arsenal/render.svg" width="90" alt="Render"/>
-  <img src="./tech-arsenal/vercel.svg" width="90" alt="Vercel"/>
-  <img src="./tech-arsenal/telegram.svg" width="90" alt="Telegram"/>
-  <img src="./tech-arsenal/api.svg" width="90" alt="API"/>
+ **Build Tools & Infrastructure**  
+![Supabase](https://img.shields.io/badge/Supabase-F38020?style=flat-square&logo=Supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+![Github](https://img.shields.io/badge/Github-0B0D0E?style=flat-square&logo=Github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2496ED?style=flat-square&logo=Telegram&logoColor=white)
 </p>
 
 
