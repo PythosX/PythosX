@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-ghorpade-36b7ab436)
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PythosX)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.karanghorpade@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio-v3-nu-gray.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio-v3-nu-gray.vercel.app/)
 
 <br><br>
 
