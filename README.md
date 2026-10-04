@@ -69,337 +69,78 @@
   <img src="https://img.shields.io/badge/HuggingFace-2496ED?style=flat-square&logo=HuggingFace&logoColor=white" alt="Hugging Face" />
 </p>
 
-
 ---
 
-# `04 // PROJECT MATRIX`
+# PYTHOS STUDIO
 
-<div align="center">
+![Pythos Studio](./banner.png)
 
-> **27 PUBLIC / VISIBLE PROJECT NODES**  
-> Each card links directly to its GitHub repository.
+> **YOUR BUSINESS DESERVES TO BE SEEN.**
 
-<table width="100%">
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ TaskMitra_Offline_App_v4_Final</h3>
-        <p>Offline TaskMitra Android app — latest version</p>
-        <p><img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Java"/></p>
-        <a href="https://github.com/PythosX/TaskMitra_Offline_App_v4_Final">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open TaskMitra_Offline_App_v4_Final"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ TaskMitra_Offline_App_v3</h3>
-        <p>Offline TaskMitra Android application</p>
-        <p><img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Java"/></p>
-        <a href="https://github.com/PythosX/TaskMitra_Offline_App_v3">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open TaskMitra_Offline_App_v3"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ TaskMitra_Offline_App_v2</h3>
-        <p>Offline TaskMitra Android application</p>
-        <p><img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Java"/></p>
-        <a href="https://github.com/PythosX/TaskMitra_Offline_App_v2">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open TaskMitra_Offline_App_v2"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ TaskMitra_Offline_App</h3>
-        <p>Offline task management Android application</p>
-        <p><img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Java"/></p>
-        <a href="https://github.com/PythosX/TaskMitra_Offline_App">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open TaskMitra_Offline_App"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ TaskMitra_v2</h3>
-        <p>TaskMitra web application</p>
-        <p><img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="HTML"/></p>
-        <a href="https://github.com/PythosX/TaskMitra_v2">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open TaskMitra_v2"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ TaskMitra</h3>
-        <p>Task management web application</p>
-        <p><img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="JavaScript"/></p>
-        <a href="https://github.com/PythosX/TaskMitra">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open TaskMitra"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ ResumeKairo_Ai</h3>
-        <p>AI-powered resume creation and optimization platform</p>
-        <p><img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="HTML"/></p>
-        <a href="https://github.com/PythosX/ResumeKairo_Ai">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open ResumeKairo_Ai"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ ResumeKairo</h3>
-        <p>Resume achievement analysis and optimization tool</p>
-        <p><img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="HTML"/></p>
-        <a href="https://github.com/PythosX/ResumeKairo">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open ResumeKairo"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ ResumeForge-AI</h3>
-        <p>AI-powered resume analyzer and rebuilder</p>
-        <p><img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Python"/></p>
-        <a href="https://github.com/PythosX/ResumeForge-AI">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open ResumeForge-AI"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Manhwa</h3>
-        <p>Manhwa project and reading experience</p>
-        <p><img src="https://img.shields.io/badge/PROJECT-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Project"/></p>
-        <a href="https://github.com/PythosX/Manhwa">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Manhwa"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Aether-Vault</h3>
-        <p>Secure encrypted data storage and vault system</p>
-        <p><img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Python"/></p>
-        <a href="https://github.com/PythosX/Aether-Vault">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Aether-Vault"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ HyperTask-AI</h3>
-        <p>AI-powered task and reminder platform</p>
-        <p><img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="HTML"/></p>
-        <a href="https://github.com/PythosX/HyperTask-AI">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open HyperTask-AI"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Persona_Clone_Bot</h3>
-        <p>AI-driven persona clone chatbot</p>
-        <p><img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Python"/></p>
-        <a href="https://github.com/PythosX/Persona_Clone_Bot">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Persona_Clone_Bot"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ My_AI_Portfolio</h3>
-        <p>Interactive chatbot-style portfolio</p>
-        <p><img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="HTML"/></p>
-        <a href="https://github.com/PythosX/My_AI_Portfolio">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open My_AI_Portfolio"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Portfolio</h3>
-        <p>Personal web developer portfolio</p>
-        <p><img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="HTML"/></p>
-        <a href="https://github.com/PythosX/Portfolio">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Portfolio"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Gift</h3>
-        <p>Creative web project</p>
-        <p><img src="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="CSS"/></p>
-        <a href="https://github.com/PythosX/Gift">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Gift"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Shorts_Factory</h3>
-        <p>Short-form content and visual creation project</p>
-        <p><img src="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="CSS"/></p>
-        <a href="https://github.com/PythosX/Shorts_Factory">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Shorts_Factory"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Math-ChatBot</h3>
-        <p>Scientific math calculation chatbot</p>
-        <p><img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="HTML"/></p>
-        <a href="https://github.com/PythosX/Math-ChatBot">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Math-ChatBot"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Gaming_Hub</h3>
-        <p>Gaming hub web experience</p>
-        <p><img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="JavaScript"/></p>
-        <a href="https://github.com/PythosX/Gaming_Hub">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Gaming_Hub"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ File-Uploading-System</h3>
-        <p>Web-based file uploading system</p>
-        <p><img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="JavaScript"/></p>
-        <a href="https://github.com/PythosX/File-Uploading-System">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open File-Uploading-System"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ IPL_LiveStreaming</h3>
-        <p>Cricket live-streaming project</p>
-        <p><img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="JavaScript"/></p>
-        <a href="https://github.com/PythosX/IPL_LiveStreaming">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open IPL_LiveStreaming"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ DisciplineOS</h3>
-        <p>Discipline and productivity focused web project</p>
-        <p><img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="JavaScript"/></p>
-        <a href="https://github.com/PythosX/DisciplineOS">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open DisciplineOS"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Papar_Builder</h3>
-        <p>Question-paper builder for creating searchable exam banks</p>
-        <p><img src="https://img.shields.io/badge/PROJECT-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Project"/></p>
-        <a href="https://github.com/PythosX/Papar_Builder">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Papar_Builder"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Papar_Generator</h3>
-        <p>Question paper generator</p>
-        <p><img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="HTML"/></p>
-        <a href="https://github.com/PythosX/Papar_Generator">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Papar_Generator"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Ping-pong-Game-_-using-js-and-html</h3>
-        <p>Classic browser ping-pong game</p>
-        <p><img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="JavaScript"/></p>
-        <a href="https://github.com/PythosX/Ping-pong-Game-_-using-js-and-html">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Ping-pong-Game-_-using-js-and-html"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Character-Couter.ai</h3>
-        <p>AI character counting project</p>
-        <p><img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="Python"/></p>
-        <a href="https://github.com/PythosX/Character-Couter.ai">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Character-Couter.ai"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-<tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>◈ Scholar</h3>
-        <p>Educational web project</p>
-        <p><img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=github&logoColor=00e5ff" alt="HTML"/></p>
-        <a href="https://github.com/PythosX/Scholar">
-          <img src="https://img.shields.io/badge/OPEN%20REPOSITORY-00e5ff?style=for-the-badge&logo=github&logoColor=0b0810" alt="Open Scholar"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+## From the Founder
 
-</div>
+Pythos Studio started with a simple idea:
+
+**A great business deserves more than just a social media page or a basic website.**
+
+I created Pythos Studio to help businesses turn what they already have — their identity, products, stories and ambition — into a digital experience people actually remember.
+
+I believe a website should not feel like a template.
+
+It should feel like **the business itself**.
+
+A restaurant should feel like stepping into the restaurant.  
+A fashion brand should feel like entering its world.  
+A professional business should immediately communicate trust.  
+A creator should have a digital space that feels uniquely theirs.
+
+That is the standard I want Pythos Studio to build toward.
+
+## Why Pythos?
+
+I don't want to simply build websites.
+
+I want to build **digital experiences**.
+
+That means combining:
+
+- Creative visual direction
+- UI/UX design
+- Modern web development
+- Motion and interaction
+- Storytelling
+- Performance
+- Responsive experiences
+
+Every project starts with understanding the business first, and the technology second.
+
+## My Vision
+
+I want Pythos Studio to become the kind of studio businesses approach when they want their online presence to feel **different**.
+
+Just **intentional, memorable and genuinely well designed.**
+
+The goal is simple:
+
+> **Build something people remember.**
+
+## Building Pythos Studio
+
+Pythos Studio is currently growing one project at a time.
+
+Every website is an opportunity to experiment, learn, improve and create something better than the last.
+
+The long-term vision is to build a studio where **design, technology and storytelling come together** to create experiences that help real businesses stand out in the digital world.
+
+### — PythosX
+**Founder • Developer • Designer**
+
+> **Your business is already great.  
+> Let's make the internet know.**
 
 ---
-
-## `05 // CURRENT DIRECTIVE`
-
-<div align="center">
-
-```text
-[ SYSTEM ]
-STATUS      : ONLINE
-PROJECTS    : 27
-MODE        : BUILD / EXPLORE / REPEAT
-OBJECTIVE   : CREATE SOMETHING USEFUL
-```
 
 ### ⚡ Keep building. Keep experimenting. Keep shipping.
-
-</div>
 
 ---
 
