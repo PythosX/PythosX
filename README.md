@@ -77,7 +77,7 @@
 
 ### **Premium Websites • Digital Experiences • Creative Technology**
 
-<img src="./assets/pythos-studio-banner.png" alt="Pythos Studio" width="100%"/>
+<img src="./banner.png" alt="Pythos Studio" width="100%"/>
 
 <br/>
 
