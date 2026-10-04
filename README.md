@@ -71,76 +71,108 @@
 
 ---
 
-# PYTHOS STUDIO
+<div align="center">
 
-![Pythos Studio](./banner.png)
+# ◢ PYTHOS STUDIO
 
-> **YOUR BUSINESS DESERVES TO BE SEEN.**
+### **Premium Websites • Digital Experiences • Creative Technology**
 
-## From the Founder
+<img src="./assets/pythos-studio-banner.png" alt="Pythos Studio" width="100%"/>
 
-Pythos Studio started with a simple idea:
+<br/>
 
-**A great business deserves more than just a social media page or a basic website.**
+### `YOUR BUSINESS DESERVES TO BE SEEN.`
 
-I created Pythos Studio to help businesses turn what they already have — their identity, products, stories and ambition — into a digital experience people actually remember.
+<br/>
 
-I believe a website should not feel like a template.
+[![Website](https://img.shields.io/badge/Website-Pythos%20Studio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-PythosX-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PythosX)
+[![Studio](https://img.shields.io/badge/Studio-Creative%20Digital%20Studio-111111?style=for-the-badge)](#)
 
-It should feel like **the business itself**.
-
-A restaurant should feel like stepping into the restaurant.  
-A fashion brand should feel like entering its world.  
-A professional business should immediately communicate trust.  
-A creator should have a digital space that feels uniquely theirs.
-
-That is the standard I want Pythos Studio to build toward.
-
-## Why Pythos?
-
-I don't want to simply build websites.
-
-I want to build **digital experiences**.
-
-That means combining:
-
-- Creative visual direction
-- UI/UX design
-- Modern web development
-- Motion and interaction
-- Storytelling
-- Performance
-- Responsive experiences
-
-Every project starts with understanding the business first, and the technology second.
-
-## My Vision
-
-I want Pythos Studio to become the kind of studio businesses approach when they want their online presence to feel **different**.
-
-Just **intentional, memorable and genuinely well designed.**
-
-The goal is simple:
-
-> **Build something people remember.**
-
-## Building Pythos Studio
-
-Pythos Studio is currently growing one project at a time.
-
-Every website is an opportunity to experiment, learn, improve and create something better than the last.
-
-The long-term vision is to build a studio where **design, technology and storytelling come together** to create experiences that help real businesses stand out in the digital world.
-
-### — PythosX
-**Founder • Developer • Designer**
-
-> **Your business is already great.  
-> Let's make the internet know.**
+</div>
 
 ---
 
-### ⚡ Keep building. Keep experimenting. Keep shipping.
+## ✦ THE IDEA
+
+**Pythos Studio started with a simple belief:**
+
+> ### **A great business deserves more than a basic website.**
+
+There are businesses with great products, strong identities and stories worth telling — but their online presence doesn't communicate any of it.
+
+**That's where Pythos Studio comes in.**
+
+We transform a business's identity, products, personality and ambition into a **digital experience people remember.**
+
+---
+
+## ◈ NOT JUST WEBSITES
+
+A website shouldn't feel like another template.
+
+It should feel like **the business itself.**
+
+| Business | Experience |
+|---|---|
+| 🍽️ Restaurant | Feel like stepping into the restaurant |
+| 👗 Fashion Brand | Enter the world of the brand |
+| 🏢 Business | Communicate trust instantly |
+| 🎨 Creator | Reflect personality and creativity |
+| 🛍️ Store | Turn products into an experience |
+
+---
+
+## ✦ WHAT WE CREATE
+
+<div align="center">
+
+| ◉ | ◉ | ◉ |
+|---|---|---|
+| **WEB DESIGN** | **UI / UX** | **DEVELOPMENT** |
+| Distinctive interfaces | Purposeful experiences | Modern technology |
+| **INTERACTION** | **STORYTELLING** | **PERFORMANCE** |
+| Motion & micro-interactions | Brand-driven experiences | Fast & responsive |
+
+</div>
+
+---
+
+## ◢ THE PYTHOS APPROACH
+
+We don't begin with a template.
+
+We begin with the **business**.
+
+```text
+     UNDERSTAND
+          ↓
+      DISCOVER
+          ↓
+       DESIGN
+          ↓
+        BUILD
+          ↓
+       REFINE
+          ↓
+       LAUNCH
+          ↓
+        GROW
+```
+---
+
+✦ FROM THE FOUNDER
+PythosX
+
+Founder • Developer • Designer
+
+I created Pythos Studio because I believe businesses already have something worth showing.
+
+My job is to help bring that identity to the digital world.
+
+Your business is already great.
+
+Let's make the internet know..
 
 ---
 
