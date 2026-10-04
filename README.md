@@ -38,16 +38,6 @@
 
 ---
 
-## `02 // GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="./stats/github-stats.svg" alt="PythosX GitHub Statistics" width="900">
-
-</div>
-
----
-
 <h2 align="center">⚡ TECH ARSENAL // ACTIVE STACK</h2>
 
 <p align="center">
