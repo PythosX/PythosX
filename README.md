@@ -161,7 +161,8 @@ We begin with the **business**.
 ```
 ---
 
-✦ FROM THE FOUNDER
+## ✦ FROM THE FOUNDER
+
 PythosX
 
 Founder • Developer • Designer
