@@ -23,30 +23,24 @@
 </div>
 ---
 
-<h2 align="center">⚡ CODE ACTIVITY // PYTHOSX</h2>
-
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PythosX&show_icons=true&include_all_commits=true&hide_rank=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=0D1117"
-    alt="PythosX Total GitHub Commits"
-    width="49%"
-  />
-
-</div>
-
----
-
-<div align="center">
+  <h2>⚡ CODE STREAK // PYTHOSX</h2>
 
   <img
     src="https://streak-stats.demolab.com?user=PythosX&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    alt="PythosX Current and Highest GitHub Streak"
-    width="70%"
+    width="85%"
+    alt="PythosX Neon GitHub Streak"
+  />
+
+  <br/>
+
+  <img
+    src="https://img.shields.io/badge/STATUS-KEEP_BUILDING-00E5FF?style=for-the-badge&labelColor=0D1117"
+    alt="Keep Building"
   />
 
 </div>
-
 
 ---
 <h2 align="center">⚡ TECH ARSENAL // ACTIVE STACK</h2>
