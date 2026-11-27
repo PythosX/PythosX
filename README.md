@@ -21,6 +21,20 @@
 
 
 </div>
+---
+
+<h2 align="center">⚡ CODE ACTIVITY // PYTHOSX</h2>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PythosX&show_icons=true&include_all_commits=true&hide_rank=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=0D1117"
+    alt="PythosX Total GitHub Commits"
+    width="49%"
+  />
+
+</div>
+
 
 ---
 <h2 align="center">⚡ TECH ARSENAL // ACTIVE STACK</h2>
