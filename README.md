@@ -4,7 +4,7 @@
 
 ### `DIGITAL BUILDER • CODE NINJA • SYSTEM EXPLORER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+systems.;Turning+code+into+digital+experiences.;Exploring+AI%2C+web%2C+automation+%26+apps.;Welcome+to+my+digital+realm.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+systems.;Turning+code+into+digital+experiences.;Exploring+AI%2C+web%2C+automation+%26+apps.;Welcome+to+my+digital+realm.;B.Tech+at+SAKEC">
 
 <br>
 
