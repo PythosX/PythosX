@@ -1,67 +1,12 @@
 
 <div align="center">
 
-  <!-- NEON CYBERPUNK HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=1800&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=%5B+PYTHOSX+%5D;%3E+SYSTEM+ONLINE;%3E+ACCESSING+DIGITAL+REALM;%3E+BUILDING+THE+FUTURE" alt="Cyber Terminal Header"/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+PYTHOSX;%3E+DIGITAL+BUILDER;%3E+CODE+NINJA;%3E+SYSTEM+EXPLORER"
-    alt="PythosX Neon Cyberpunk Header"
-  />
-
-  <br/>
-
-  <img
-    src="https://img.shields.io/badge/BUILDING-IDEAS_INTO_SYSTEMS-00E5FF?style=for-the-badge&labelColor=0D1117"
-    alt="Building Ideas Into Systems"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=700&lines=AI+%2F%2F+WEB+%2F%2F+AUTOMATION+%2F%2F+APPS;Turning+code+into+digital+experiences.;B.Tech+%40+SAKEC"
-    alt="PythosX Developer Description"
-  />
-
-  <br/><br/>
-
-  <!-- SOCIAL LINKS -->
-
-  <a href="https://www.linkedin.com/in/karan-ghorpade-36b7ab436">
-    <img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/PythosX">
-    <img src="https://img.shields.io/badge/TELEGRAM-00E5FF?style=for-the-badge&logo=telegram&logoColor=0D1117&labelColor=0D1117" alt="Telegram"/>
-  </a>
-  <a href="mailto:contact.karanghorpade@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="Email"/>
-  </a>
-  <a href="https://portfolio-v3-nu-gray.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117" alt="Portfolio"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- GITHUB FOLLOWERS -->
-
-  <a href="https://github.com/PythosX?tab=followers">
-    <img src="https://img.shields.io/github/followers/PythosX?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=0D1117&logo=github&logoColor=00E5FF" alt="PythosX GitHub Followers"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- NEON STREAK -->
-
-  <img
-    src="https://streak-stats.demolab.com?user=PythosX&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    width="85%"
-    alt="PythosX Current and Highest GitHub Streak"
-  />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Online"/>
 
 </div>
 
----
-
-<div align="center">
 
   <h2>⚡ CODE STREAK // PYTHOSX</h2>
 
