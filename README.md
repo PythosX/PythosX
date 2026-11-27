@@ -35,6 +35,18 @@
 
 </div>
 
+---
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=PythosX&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="PythosX Current and Highest GitHub Streak"
+    width="70%"
+  />
+
+</div>
+
 
 ---
 <h2 align="center">⚡ TECH ARSENAL // ACTIVE STACK</h2>
