@@ -35,11 +35,6 @@
 
   <br/>
 
-  <img
-    src="https://img.shields.io/badge/STATUS-KEEP_BUILDING-00E5FF?style=for-the-badge&labelColor=0D1117"
-    alt="Keep Building"
-  />
-
 </div>
 
 
