@@ -1,46 +1,22 @@
+# ⚡ PythosX 
 
-<div align="center">
+### DIGITAL BUILDER • CODE NINJA • SYSTEM EXPLORER
 
-  <!-- NEON CYBERPUNK SOCIAL LOGOS -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+systems.;Turning+code+into+digital+experiences.;Exploring+AI%2C+web%2C+automation+%26+apps.;Welcome+to+my+digital+realm.;B.Tech+at+SAKEC">
 
-  <a href="https://www.linkedin.com/in/karan-ghorpade-36b7ab436">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117"
-      alt="LinkedIn"
-    />
-  </a>
+<br>
 
-  <a href="https://t.me/PythosX">
-    <img
-      src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=00E5FF&labelColor=0D1117"
-      alt="Telegram"
-    />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-ghorpade-36b7ab436)
+[![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PythosX)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.karanghorpade@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio-v3-nu-gray.vercel.app/)
 
-  <a href="mailto:contact.karanghorpade@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117"
-      alt="Email"
-    />
-  </a>
+<br><br>
 
-  <a href="https://portfolio-v3-nu-gray.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=0D1117"
-      alt="Portfolio"
-    />
-  </a>
 
-  <br/><br/>
+[![Followers](https://img.shields.io/github/followers/pythosx?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/pythosx?tab=followers)
 
-  <!-- GITHUB FOLLOWERS -->
 
-  <a href="https://github.com/PythosX?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/PythosX?style=for-the-badge&logo=github&logoColor=00E5FF&label=Followers&labelColor=0D1117&color=00E5FF"
-      alt="GitHub Followers"
-    />
-  </a>
 
 </div>
 
