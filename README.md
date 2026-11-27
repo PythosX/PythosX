@@ -35,13 +35,7 @@
 
   <br/>
 
-  <img
-    src="https://img.shields.io/badge/STATUS-KEEP_BUILDING-00E5FF?style=for-the-badge&labelColor=0D1117"
-    alt="Keep Building"
-  />
-
 </div>
----
 <h2 align="center">⚡ TECH ARSENAL // ACTIVE STACK</h2>
 
 <p align="center">
