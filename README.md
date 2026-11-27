@@ -1,11 +1,49 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=1800&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=%5B+PYTHOSX+%5D;%3E+SYSTEM+ONLINE;%3E+ACCESSING+DIGITAL+REALM;%3E+BUILDING+THE+FUTURE" alt="Cyber Terminal Header"/>
+  <!-- NEON CYBERPUNK SOCIAL LOGOS -->
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Online"/>
+  <a href="https://www.linkedin.com/in/karan-ghorpade-36b7ab436">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://t.me/PythosX">
+    <img
+      src="https://img.shields.io/badge/Telegram-00E5FF?style=for-the-badge&logo=telegram&logoColor=00E5FF&labelColor=0D1117"
+      alt="Telegram"
+    />
+  </a>
+
+  <a href="mailto:contact.karanghorpade@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://portfolio-v3-nu-gray.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=00E5FF&labelColor=0D1117"
+      alt="Portfolio"
+    />
+  </a>
+
+  <br/><br/>
+
+  <!-- GITHUB FOLLOWERS -->
+
+  <a href="https://github.com/PythosX?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/PythosX?style=for-the-badge&logo=github&logoColor=00E5FF&label=Followers&labelColor=0D1117&color=00E5FF"
+      alt="GitHub Followers"
+    />
+  </a>
 
 </div>
+
 
 
   <h2>⚡ CODE STREAK // PYTHOSX</h2>
