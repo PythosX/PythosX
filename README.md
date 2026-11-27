@@ -21,23 +21,23 @@
 
 
 </div>
-
 ---
+
 <div align="center">
 
-  <h2>▰ SYSTEM ACTIVITY // ONLINE</h2>
+  <h2>⚡ CODE STREAK // PYTHOSX</h2>
 
   <img
-    src="https://streak-stats.demolab.com?user=PythosX&hide_border=true&background=0B0F0C&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7CFC00"
+    src="https://streak-stats.demolab.com?user=PythosX&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
     width="85%"
-    alt="PythosX Matrix Coding Streak"
+    alt="PythosX Neon GitHub Streak"
   />
 
   <br/>
 
   <img
-    src="https://img.shields.io/badge/TERMINAL-ACCESS_GRANTED-39FF14?style=flat-square&labelColor=0B0F0C"
-    alt="Terminal Access Granted"
+    src="https://img.shields.io/badge/STATUS-KEEP_BUILDING-00E5FF?style=for-the-badge&labelColor=0D1117"
+    alt="Keep Building"
   />
 
 </div>
