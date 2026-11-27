@@ -23,21 +23,20 @@
 </div>
 ---
 
+
 <div align="center">
 
-  <h2>⚡ CODE STREAK // PYTHOSX</h2>
-
   <img
-    src="https://streak-stats.demolab.com?user=PythosX&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    width="85%"
-    alt="PythosX Neon GitHub Streak"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=PYTHOSX+%2F%2F+CODE+STREAK;Consistency+is+the+real+superpower.;One+commit+at+a+time."
+    alt="Animated PythosX Code Streak Header"
   />
 
   <br/>
 
   <img
-    src="https://img.shields.io/badge/STATUS-KEEP_BUILDING-00E5FF?style=for-the-badge&labelColor=0D1117"
-    alt="Keep Building"
+    src="https://streak-stats.demolab.com?user=PythosX&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    width="85%"
+    alt="PythosX GitHub Streak"
   />
 
 </div>
