@@ -23,21 +23,6 @@
 </div>
 
 ---
-
-## `01 // SYSTEM STATUS`
-
-<div align="center">
-
-| ⚡ STATUS | 🧠 MODE | 🛠️ BUILD | 🌐 REALM |
-|:---:|:---:|:---:|:---:|
-| `ONLINE` | `BUILDING` | `ACTIVE` | `DIGITAL` |
-
-</div>
-
-> **"While others see problems, I see puzzles waiting to be solved — crafting elegant solutions one algorithm at a time."**
-
----
-
 <h2 align="center">⚡ TECH ARSENAL // ACTIVE STACK</h2>
 
 <p align="center">
