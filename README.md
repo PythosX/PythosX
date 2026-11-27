@@ -21,7 +21,8 @@
 
 
 </div>
-
+---
+<div align="center">
 
 
   <h2>⚡ CODE STREAK // PYTHOSX</h2>
